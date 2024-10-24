@@ -281,7 +281,7 @@ def get_chatgpt_response_with_examples(profile_info, user_input, df, first_quest
 
     La question posée par l'utilisateur est : "{user_input}"
 
-    Réponds de manière personnalisée et précise, en tenant compte des exemples ci-dessus et en adaptant la réponse pour qu'elle soit la plus pertinente possible à la question posée. Le ton doit être à la fois professionnel, convivial, et refléter l'attitude d'une jeune adulte tournée vers l'innovation. 
+    Réponds, en maximum 5 phrases, de manière personnalisée et précise, en tenant compte des exemples ci-dessus et en adaptant la réponse pour qu'elle soit la plus pertinente possible à la question posée. Le ton doit être à la fois professionnel, convivial, et refléter l'attitude d'une jeune adulte tournée vers l'innovation. 
 
     Introduit chaque réponse par : "C'est une bonne question ! Merci de votre intérêt !🥳"
     """
@@ -312,7 +312,7 @@ st.markdown("""
 Bienvenue sur mon chatbot professionnel ! 🤓 Je l'ai développé pour vous permettre d'en savoir plus sur mon parcours et mes compétences, de manière interactive et personnalisée. 
 N'hésitez pas à poser des questions sur mes compétences, mon expérience, ma formation, ou même des aspects plus personnels de ma vision professionnelle.💡
 
-Par exemple, vous pourriez demander : "Quelles sont tes compétences clés ?", "Comment utilise tu l'IA dans tes projets ?", "Qu'est-ce qui te motive dans ton travail ?" ou encore "Quels sont tes hobbies?". 
+Par exemple, vous pourriez demander : "Quelles sont tes compétences clés ?", "Comment utilises-tu l'IA dans tes projets ?", "En quoi ton profil pourrait-il apporter une valeur ajoutée à notre entreprise ?" ou encore "Quels sont tes hobbies?". 
 
 Votre curiosité est la bienvenue, alors ne soyez pas timide et explorez tout ce que vous souhaitez savoir sur moi ! ✨💬
 """)
