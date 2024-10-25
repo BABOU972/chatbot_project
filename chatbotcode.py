@@ -309,8 +309,8 @@ st.set_page_config(page_title="Chatbot Professionnel", page_icon="🤖", layout=
 st.title("🤖 Mon Chatbot Professionnel")
 
 st.markdown("""
-Bienvenue sur mon chatbot professionnel ! 🤓 Je l'ai développé pour vous permettre d'en savoir plus sur mon parcours et mes compétences, de manière interactive et personnalisée. 
-N'hésitez pas à poser des questions sur mes compétences, mon expérience, ma formation, ou même des aspects plus personnels de ma vision professionnelle.💡
+Bienvenue sur mon chatbot professionnel ! 🤓 Je l'ai développé pour vous permettre d'en savoir plus sur mon parcours, de manière interactive et personnalisée. 
+N'hésitez pas à poser des questions sur mes compétences, mon expérience, ma formation, ou même ma vision du monde de l’entreprise et de l’IA💡
 
 Par exemple, vous pourriez demander : "Quelles sont tes compétences clés ?", "Comment utilises-tu l'IA dans tes projets ?", "En quoi ton profil pourrait-il apporter une valeur ajoutée à notre entreprise ?" ou encore "Quels sont tes hobbies?". 
 
