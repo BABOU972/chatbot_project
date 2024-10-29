@@ -1,6 +1,19 @@
-# Mon profil
+# Mon profil :
 
 Je suis Ambre THIMON, consultante en stratégie et développement digital, avec une spécialisation dans l'optimisation des performances à travers l'intelligence artificielle et l'automatisation. Issue d’une école de commerce (EGC Martinique), j’ai été diplômée d’un MBA Chief Digital Officer (Digital Campus Live) et actuellement, je me forme intensivement à l'apprentissage automatique et au machine learning dans le cadre de ma spécialisation délivrée par Stanford University et DeepLearning.ai. Mon objectif est de combiner ces compétences techniques avec mon expertise en stratégie digitale pour apporter une vraie valeur ajoutée aux entreprises. 
+
+# Ma vision : 
+
+Nous sommes à une époque où l’intelligence artificielle dépasse largement son statut de simple technologie. Elle devient un véritable levier de transformation. Pour moi, l’IA offre une opportunité incroyable d’augmenter nos capacités, tout en nous permettant de repenser profondément la manière dont les entreprises créent de la valeur, sans jamais perdre de vue leur identité.
+Lorsqu’elle est utilisée intelligemment, l’IA va bien au-delà de l'optimisation des processus. Elle nous permet de repousser les frontières dans des secteurs clés, de la santé à l’éducation en passant par l’énergie. Elle transforme la manière dont nous interagissons avec le monde et en ouvrant la voie à des innovations qui façonnent notre avenir collectif.
+C’est cette approche, profondément centrée sur l’humain, qui me motive à chercher des solutions ayant un véritable impact, là où l’innovation technologique et la performance durable se rencontrent.
+L'innovation, pour moi, ne se limite pas à la technologie. Elle réside dans notre capacité à collaborer, à échanger, à nous remettre en question, et à aller plus loin, ensemble.
+
+# Mon projet professionnel : 
+
+Je recherche un poste de consultante en stratégie digitale et IA au sein d’un cabinet conseil passionné. 
+Mon objectif est de mener au succès les initiatives d’entreprises en combinant créativité et réflexion, tout en évoluant dans un environnement collaboratif, dynamique et bienveillant.
+Les villes dans lesquelles j'aimerais travailler : Paris, Genève ou Lyon.
 
 ### Compétences clés :
 
@@ -27,7 +40,7 @@ Langues : français, créole et anglais courant, espagnol et allemand bonnes not
 ### Formation :
 
 Spécialisation IA - Machine Learning
-Stanford Université & [DeepLearning.ai](http://deeplearning.ai/) (en cours)
+Stanford Université & DeepLearning.ai 
 
 MBA Chief Digital Officer
 DIGITAL CAMPUS LIVE - 2023
@@ -43,8 +56,17 @@ Ecole EGC Martinique / Réseau CCI- 2021
 
 ### Expériences professionnelles :
 
+CONSULTANTE STRATÉGIE NUMÉRIQUE & APPLICATION IA
+Cabinet AT COM    2023-2024
+Conseil en numérique et développement de l’IA
+
+- Accompagnement de chefs d’entreprises dans le développement de leur stratégie numérique et de leur présence digitale
+- Relation clients : prospection, recueil des besoins, élaboration de propositions commerciales, négociation, fidélisation
+- Création d’outils et de méthodes sur mesure et  transfert  de compétences 
+- Création et développement d’un AI powered Chatbot : “découvrir mon profil”
+
 Responsable Marketing et Communication
-EduCarib, Martinique et Grande Caraibe  2023-2024
+EduCarib, Martinique et Grande Caraïbe  2023-2024
 Coopération régionale, secteur éducation
 
 - Pilotage de stratégies marketing et communication pour des projets éducatifs développant les échanges et la coopération dans la Grande Caraïbe
@@ -114,7 +136,7 @@ Je me distingue par ma capacité à allier innovation technologique avec une for
 
 Mon atout principal réside dans mon double profil, qui combine une expertise stratégique et technique. Grâce à ma triple formation, je peux diagnostiquer et analyser les besoins d'une entreprise, puis élaborer des stratégies adaptées. En parallèle, mes compétences techniques me permettent non seulement de comprendre et mettre en œuvre les solutions, mais aussi de communiquer efficacement avec les équipes de développement pour garantir une exécution fluide. Tout le monde est entendu et compris, le déploiement se déroule comme sur des roulettes.
 
-### Centres d'interêts
+### Centres d'interêts/hobbies
 
 - **Voyages** : Voyager me permet de renforcer ma perspicacité en découvrant des cultures variées et en apprenant à naviguer dans des environnements différents. Ces expériences enrichissent ma vision du monde et m'inspirent dans mes projets.
 - **Gastronomie, restaurants étoilés** : La finesse, le raffinement et l’excellence des étoilés me passionnent, car ils témoignent d’un savoir-faire exceptionnel et d’une quête de perfection, reflétant une recherche constante de l’innovation et de l’esthétique, des valeurs que j’applique également dans mon travail.
@@ -136,6 +158,8 @@ Grèce - Pologne - Allemagne - Suisse
 
 VISITES PROFESSIONNELLES
 Atlanta - New York - Grande Caraïbe
+
+
 
 ### Conclusion :
 
