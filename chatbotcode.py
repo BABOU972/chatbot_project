@@ -311,7 +311,7 @@ with col1:
     st.title("🤖 Mon Chatbot Professionnel")
     st.markdown("<p style='font-size:16px; color: gray;'>Développé entièrement from scratch : du code au déploiement 🚀</p>", unsafe_allow_html=True)
 with col2:
-    st.image("assets/maphoto.png", width=100)
+    st.image("assets/maphoto.png", width=150)
     
 st.markdown("""
 Bienvenue sur mon chatbot professionnel ! 🤓 Je l'ai développé pour vous permettre d'en savoir plus sur mon parcours, de manière interactive et personnalisée. 
