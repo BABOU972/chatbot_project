@@ -306,11 +306,13 @@ def get_chatgpt_response_with_examples(profile_info, user_input, df, first_quest
 
 st.set_page_config(page_title="Chatbot Professionnel de Ambre", page_icon="🤖", layout="wide")
 
-st.image("assets/maphoto.png", width=150)
-
-st.title("🤖 Mon Chatbot Professionnel")
-st.markdown("<h3 style='text-align: center; color: gray;'>Développé entièrement from scratch : du code au déploiement 🚀</h3>", unsafe_allow_html=True)
-
+col1, col2 = st.columns([3, 1])
+with col1:
+    st.title("🤖 Mon Chatbot Professionnel")
+    st.markdown("<p style='font-size:16px; color: gray;'>Développé entièrement from scratch : du code au déploiement 🚀</p>", unsafe_allow_html=True)
+with col2:
+    st.image("assets/maphoto.png", width=100)
+    
 st.markdown("""
 Bienvenue sur mon chatbot professionnel ! 🤓 Je l'ai développé pour vous permettre d'en savoir plus sur mon parcours, de manière interactive et personnalisée. 
 N'hésitez pas à poser des questions sur mes compétences, mon expérience, ma formation, ou même ma vision du monde de l’entreprise et de l’IA💡
